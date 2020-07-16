@@ -11,3 +11,5 @@ GIVEN I need a new, secure password WHEN I click the button to generate a passwo
 ## Image of application
 
 ## Link to working application
+
+[GitHub](https://stephanie-hall.github.io/JavaScript-Password-Generator/)
