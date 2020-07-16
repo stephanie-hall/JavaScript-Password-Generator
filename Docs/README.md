@@ -10,6 +10,6 @@ GIVEN I need a new, secure password WHEN I click the button to generate a passwo
 
 ## Image of application
 
-![password generator demo](.Assets/.Capture.PNG)
+![password generator demo](.Assets/Capture.PNG)
 
 Link to working application:
