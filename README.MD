@@ -28,4 +28,4 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Link to working application:
 
-[JavaScript-Password-Generator]( https://stephanie-hall.github.ioJavaScript-Password-Generator/.)
+[JavaScript-Password-Generator](https://stephanie-hall.github.io/JavaScript-Password-Generator/)
