@@ -24,7 +24,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Image of application:
 
-![password generator demo](assets\Capture.PNG)
+![password generator demo](/assets/Capture.PNG)
 
 ## Link to working application:
 
